@@ -20,6 +20,8 @@ Algo Block Share: No Sharing (100% Block Share Per Algo)
 
 Difficulty Retarget: Every 1 microBlock of iel, every 1 macroblock of Adstator. 1 Global Network Difficulty & Multi-Localized Difficulties (Localized Difficulty per Miner determined by Mining Algo, Global Difficulty, Gold Value & Miner hashrate)
 
+Staking: 1 Adstator Block per 90 days 
+
 Adstator can be mined on any mining algorithms. Each algo equally (100%) mines new blocks. Any miner, be it CPU, GPU, ASIC, with any level of hashrate can mine Adstator equitably. In order for an attacker to hardfork Adstator, the attacker would need to control 93% of the hashrate on each mining algo (>=12), making Adstator most secured against PoW attacks than other blockchains.
 
 SegWit Support Yes.
